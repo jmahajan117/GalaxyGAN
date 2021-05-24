@@ -6,5 +6,6 @@ Trained on Google Colab Pro. Training time ~ 4 hours.
 
 Results:
 
-[!Image of result]
+
+![Image of result]
 (result.png)
