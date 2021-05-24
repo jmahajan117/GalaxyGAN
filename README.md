@@ -7,5 +7,4 @@ Trained on Google Colab Pro. Training time ~ 4 hours.
 Results:
 
 
-![Image of result]
-(./result.png)
+![Image of result](./result.png)
