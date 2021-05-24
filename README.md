@@ -8,4 +8,4 @@ Results:
 
 
 ![Image of result]
-(result.png)
+(https://github.com/jmahajan117/GalaxyGAN/master/result.png?raw=true)
